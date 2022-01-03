@@ -1,0 +1,11 @@
+.row{
+    padding: .6rem;
+}
+
+.inputfield{
+    padding: .6rem;
+}
+.selectfield{
+    width: 200px;
+    padding: .6rem;
+}

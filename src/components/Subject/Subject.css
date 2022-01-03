@@ -1,0 +1,31 @@
+.subjectable{
+    padding: 3rem 0rem;
+    
+}
+table{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+td,th{
+    padding: 15px 15px;
+    border: 1px solid black;
+}
+.addsubject button{
+    margin-left: 5px;
+    width: 80px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 0.2px solid blanchedalmond;
+}
+.addsubject .inputfield{
+    width: 250px;
+    margin: 5px;
+}
+.addsubject{
+    text-align: center;
+}

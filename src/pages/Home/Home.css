@@ -1,0 +1,37 @@
+.outline{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 1rem;
+}
+
+.subjectlist{
+
+    padding: 3rem .6rem;
+}
+
+.choice{
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.choice button{
+    width:200px;
+    height: 50px;
+    padding: 5px;
+    margin: 5px;
+    border: 0.5px thin rgb(155, 153, 153);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    color: cadetblue;
+    border-radius: 15px;
+
+}
+
+.subheading{
+    text-align: center;
+    padding: 2rem 2px;
+}
+.footer{
+    margin-top: 3rem;
+}

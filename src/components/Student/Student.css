@@ -1,0 +1,32 @@
+.studenttable{
+    padding: auto;
+
+}
+.addstudent{
+    text-align: center;
+}
+
+.addstudent .inputfield{
+    width: 250px;
+    margin: 5px;
+}
+.studenttable table{
+    margin-top: 2rem;
+    border: none;
+    width: 100%;
+    display: block;
+    overflow: auto;
+}
+.studenttable th,td{
+    border: none;
+
+}
+
+.addstudent button{
+    margin-left: 5px;
+    width: 120px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 0.2px solid blanchedalmond;
+}
